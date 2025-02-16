@@ -17,6 +17,6 @@ DIR STRUCURE
 ```
 
 
-Check out the project repository: [TDS Project 1 Repository](https://github.com/daiwik-project/TDS-Project-1/tree/main)
+Check out the Main project repository: [TDS Project 1 Repository](https://github.com/daiwik-project/TDS-Project-1/tree/main)
 
-You can also view the PDF of the project: [Project 1 PDF](https://github.com/daiwik-project/TDS-Project-1/blob/07e4839e6ad58f59cc43613529b5f45d8a4c86c6/Project%201.pdf)
+You can also view the PDF of the project objective : [Project 1 PDF](https://github.com/daiwik-project/TDS-Project-1/blob/07e4839e6ad58f59cc43613529b5f45d8a4c86c6/Project%201.pdf)
